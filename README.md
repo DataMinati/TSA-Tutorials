@@ -1,4 +1,4 @@
-# TSA-Fauj
+# TSA-Fauj 🛡⚔🏹
 An army of time series analysis projects in Python
 
 | S.No. | Project Title | Dataset |
